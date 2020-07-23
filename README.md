@@ -1,57 +1,53 @@
 # Abacus
   
-  ## Description
-  Abacus is design to help teachers manager their class room data. Users are able to log in to the application once they have created an account. Once they have an account they are able to add students to their class, create and update assignments, and view grades for assignments.
-  ## Table of Contents
-  *  [Installation](#Installation)
-  *  [Usage](#Usage)
-  *  [Images]
-  *  [Links](#Links)
-  *  [Contributors](#Contributors)
-  *  [License](#License)
-  *  [Contributing](#Contributing)
-  *  [Tests](#Tests)
-  *  [Questions](#Questions)
-  ## Installation
-  To install necessary dependencies, run the following command:
+## Table of Contents
+*  [Description](#Description)
+*  [Images](#images)
+*  [License](#License)
+*  [Contributors](#Contributors)
+*  [Contributing](#Contributing)
+*  [Contact](#Contact)
 
-    >npm i
+## Description
+Abacus is designed to help teachers manage their class data. Main technologies utilized for the build include Sequelize, handlebars, jQuery, and Passport. 
 
-  ## Usage
-  To run locally, use npm start from the command line. Or follow the link below to the deployed app on heroku.
-  ## Images
-  ![1](https://github.com/akleiner26/abacus/blob/master/public/Assets/Capture%20d%E2%80%99%C3%A9cran%20(38).png)
-  ![2](https://github.com/akleiner26/abacus/blob/master/public/Assets/Capture%20d%E2%80%99%C3%A9cran%20(39).png)
-  ![3](https://github.com/akleiner26/abacus/blob/master/public/Assets/Capture%20d%E2%80%99%C3%A9cran%20(40).png)
-  ![4](https://github.com/akleiner26/abacus/blob/master/public/Assets/Capture%20d%E2%80%99%C3%A9cran%20(41).png)
-  # Links
+Users are able to create unique log ons and add students for their class, add / update / delete assignments, and view grades.
 
-  1. [Link to Deployed Application](https://github.com/akleiner26/Abacus)
+**Deployed Link:** https://em-abacus.herokuapp.com/userportal
 
-  2. [Link to Github Repository](https://a-bacus-app.herokuapp.com/)
+To login as a sample user, use the logins below:
+- **Email addresss:** sarah.lesson@teach.com
+- **Password:** password
 
-  # Contributors
+- **Email addresss:** jared.councilor@teach.com
+- **Password:** password
 
-  1. [Andrew Kleiner](https://github.com/akleiner26)
+## Images
+### Log In Page
+<img src="./public/images/signin-screenshot.jpg" alt="Screenshot of entering site" />
 
-  2. [Esther Min](https://github.com/jungjungie)  
+### User Portal
+<img src="./public/images/userportal-screenshot.jpg" alt="Screenshot of the User portal" />
 
-  3. [Tim Winters](https://github.com/erasersleeve)
+### My Students Page
+<img src="./public/images/students-screenshot.jpg" alt="Screenshot of the students Portal" />
 
+### Assignments Page
+<img src="./public/images/assignments-screenshot.jpg" alt="Screenshot of assignments portal" />
 
+## License
+None
 
-  ## License
-  None
-  ## Contributing
-  To make contributions or queries please contact us via github.
-  ## Tests
-  To run tests, run the following command:
-    
-    >npm test
-  
-  ## Questions
-  If you have any questions about this repo, open an issue or contact us directly. You can find more of our work at:
-  Tim Winters - (https://github.com/erasersleeve)
-  Esther Min - (https://github.com/jungjungie)
-  Andrew Kleiner - (https://github.com/akleiner26)
-  
+## Contributors
+- [Andrew Kleiner](https://github.com/akleiner26)
+- [Esther Min](https://github.com/jungjungie)  
+- [Tim Winters](https://github.com/erasersleeve)
+
+## Contributing
+To make contributions or queries, please contact us via github.
+
+## Contact
+If you have any questions about this repo, open an issue or contact us directly. You can find more of our work at:
+- Andrew Kleiner: https://github.com/akleiner26
+- Esther Min: https://github.com/jungjungie
+- Tim Winters: https://github.com/erasersleeve
