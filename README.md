@@ -6,6 +6,7 @@
 *  [License](#License)
 *  [Contributors](#Contributors)
 *  [Contributing](#Contributing)
+*  [Future Developments](#Future-Developments)
 *  [Contact](#Contact)
 
 ## Description
@@ -16,10 +17,10 @@ Users are able to create unique log ons and add students for their class, add / 
 **Deployed Link:** https://em-abacus.herokuapp.com/userportal
 
 To login as a sample user, use the logins below:
-- **Email addresss:** sarah.lesson@teach.com
+- **Email address:** sarah.lesson@teach.com
 - **Password:** password
 
-- **Email addresss:** jared.councilor@teach.com
+- **Email address:** jared.councilor@teach.com
 - **Password:** password
 
 ## Images
@@ -45,6 +46,12 @@ None
 
 ## Contributing
 To make contributions or queries, please contact us via github.
+
+## Future-Developments
+- Ability to add and update grades
+- Ability to update and delete students
+- Student progress page with graph displays 
+- Student portal login to view their own grades and upcoming assignments
 
 ## Contact
 If you have any questions about this repo, open an issue or contact us directly. You can find more of our work at:
